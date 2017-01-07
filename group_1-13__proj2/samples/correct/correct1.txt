@@ -1,0 +1,3 @@
+newOval = Oval();
+newOvalLoc = Location(12,24);
+newOval.draw(location:newOvalLoc);

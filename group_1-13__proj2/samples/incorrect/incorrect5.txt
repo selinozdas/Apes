@@ -1,0 +1,4 @@
+ovy = Oval();
+anotherOvy = Oval();
+twoOvy = Composite(ovy,anotherOvy);
+twoOvy.draw();

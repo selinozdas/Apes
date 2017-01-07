@@ -1,0 +1,7 @@
+meow = StringShape("meow");
+meowSize = Size(10,10);
+meowCol = Colour(0,0,0);
+kittycat = Rectangle();
+rectCol = meowCol;
+mewComposite =  Composite ( meow, kittycat);
+mewComposite.draw(size:meowSize,fillColour:meowCol);

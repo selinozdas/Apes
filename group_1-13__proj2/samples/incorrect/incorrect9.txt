@@ -1,0 +1,3 @@
+ovy = oval();
+ovyStr = String("ovy");
+Composite(ovy,ovyStr);

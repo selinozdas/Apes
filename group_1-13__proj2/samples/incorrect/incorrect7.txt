@@ -1,0 +1,3 @@
+ovy = Oval();
+rect = Rectangle()
+Composite("shapeNew", ovy, rect);

@@ -1,0 +1,7 @@
+x="once upon a foo, there has been a bar ";
+y = 2.23 + 10* 23 ;
+if(y  < 20) { 
+newShape =  StringShape ( x, lineWidth: y );
+loc = Location ( 20, 30);
+newShape.draw (loc, endArrow: True, startArrow: False );
+}
